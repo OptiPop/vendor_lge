@@ -76,6 +76,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/hammerhead/proprietary/lib/libmmcamera_imglib.so:system/lib/libmmcamera_imglib.so \
     vendor/lge/hammerhead/proprietary/lib/libmmcamera_imx179.so:system/lib/libmmcamera_imx179.so \
     vendor/lge/hammerhead/proprietary/lib/libmmcamera_imx179_eeprom.so:system/lib/libmmcamera_imx179_eeprom.so \
+    vendor/lge/hammerhead/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
     vendor/lge/hammerhead/proprietary/lib/libmmcamera_mt9m114b.so:system/lib/libmmcamera_mt9m114b.so \
     vendor/lge/hammerhead/proprietary/lib/libmmcamera_wavelet_lib.so:system/lib/libmmcamera_wavelet_lib.so \
     vendor/lge/hammerhead/proprietary/lib/libmm-color-convertor.so:system/lib/libmm-color-convertor.so \
