@@ -164,6 +164,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/hammerhead/proprietary/vendor/lib/libdrmdecrypt.so:system/vendor/lib/libdrmdecrypt.so \
     vendor/lge/hammerhead/proprietary/vendor/lib/libdsi_netctrl.so:system/vendor/lib/libdsi_netctrl.so \
     vendor/lge/hammerhead/proprietary/vendor/lib/libdsutils.so:system/vendor/lib/libdsutils.so \
+    vendor/lge/hammerhead/proprietary/vendor/lib/libfrsdk.so:system/vendor/lib/libfrsdk.so \
     vendor/lge/hammerhead/proprietary/vendor/lib/libDxHdcp.so:system/vendor/lib/libDxHdcp.so \
     vendor/lge/hammerhead/proprietary/vendor/lib/libFuzzmmstillomxenc.so:system/vendor/lib/libFuzzmmstillomxenc.so \
     vendor/lge/hammerhead/proprietary/vendor/lib/libgeofence.so:system/vendor/lib/libgeofence.so \
@@ -172,6 +173,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/hammerhead/proprietary/vendor/lib/libizat_core.so:system/vendor/lib/libizat_core.so \
     vendor/lge/hammerhead/proprietary/vendor/lib/libjpegdhw.so:system/vendor/lib/libjpegdhw.so \
     vendor/lge/hammerhead/proprietary/vendor/lib/libjpegehw.so:system/vendor/lib/libjpegehw.so \
+    vendor/lge/hammerhead/proprietary/vendor/lib/liblbs_core.so:system/vendor/lib/liblbs_core.so \
     vendor/lge/hammerhead/proprietary/vendor/lib/libllvm-qcom.so:system/vendor/lib/libllvm-qcom.so \
     vendor/lge/hammerhead/proprietary/vendor/lib/libloc_api_v02.so:system/vendor/lib/libloc_api_v02.so \
     vendor/lge/hammerhead/proprietary/vendor/lib/libloc_ds_api.so:system/vendor/lib/libloc_ds_api.so \
